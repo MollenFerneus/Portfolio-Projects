@@ -1,5 +1,5 @@
 ## 📂 Project Structure
-- `Jobs_NYC_Postings.csv` - Dataset containing job postings in NYC.
+- `Jobs_NYC_Postings.csv` - Dataset containing job postings in NYC taken from https://catalog.data.gov/dataset/nyc-jobs
 - `NYC_Job_Postings_analysis.ipynb` - Jupyter Notebook with data cleaning, visualization, and insights.
 
 ## 📊 Key Insights
