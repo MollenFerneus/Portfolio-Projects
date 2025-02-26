@@ -8,7 +8,6 @@
 - Identifying jobs with the biggest salary discrepancies.
 
 ## 🛠️ Dependencies
-
-    Python
-    Pandas
-    Plotly Dash
+- Python
+- Pandas
+- Plotly Dash
