@@ -6,3 +6,9 @@
 - Salary distributions across different career levels.
 - Comparison of full-time vs. part-time salaries.
 - Identifying jobs with the biggest salary discrepancies.
+
+## 🛠️ Dependencies
+
+    Python
+    Pandas
+    Plotly Dash
